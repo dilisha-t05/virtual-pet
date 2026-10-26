@@ -9,7 +9,7 @@ day = 1
 
 print(f"\n Welcome! {pet_name} is now your virtual pet!")
 
-while alive
+while alive:
 print("\n" + "=" * 30)
 print(f"      Day:{day} : {pet_name})
 print("=" * 30)
